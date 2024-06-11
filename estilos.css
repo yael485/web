@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #ff9a9e, #d01b5e); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+video{
+    width: 50%;
+    height: 50%;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+ul{
+    color:white;
+}
+
+ol{
+    color:white;
+}
+
+ul li a{
+    color: white;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    clear: both;
+}
+
+
